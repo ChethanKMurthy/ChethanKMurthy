@@ -57,7 +57,6 @@ Here are the technologies I work with:
 I'm always open to feedback, collaboration, and new opportunities. Feel free to reach out!
 
 - [LinkedIn](https://www.linkedin.com/in/chethan-k-murthy-37b023319/)
-- [Twitter](https://twitter.com/your-twitter-handle)
 - [Email](mailto:chethankeshavmurthy@gmail.com)
 
 ## Support My Work
