@@ -32,6 +32,7 @@ Here are the technologies I work with:
 
 - **Lung Cancer Identification Models**: Research and compare various models for early detection of lung cancer to improve patient outcomes.
 - **AI-powered Menstrual Cycle Prediction Tool**: Empowering women to take charge of their reproductive health through accurate predictions.
+- **Poker-bot**:Input your river cards and cards on the table to know your probablity of winning the hand.
 
 ### Finance & Trading
 
@@ -41,16 +42,18 @@ Here are the technologies I work with:
 ### JavaScript Games
 
 - **Space Survival Game**: A thrilling game where players dodge planets and survive in space. Unlimited distance but limited lives—how long can you last?
+- **Colour Coded Sudoku**: A sudoku solver made attractive with colour coding.
 
 ### Publications
 
 - **How AIOT is Reshaping Agriculture Water Use**: Co-author of a chapter in the upcoming book 'AIOT for Smart Agriculture'.
+- **Comparitve Analysis Of Machine Learning for Lung Cancer Detection** : Published in the **INTERNATIONAL CONFERENCE OF MULTIDISCIPLINARY AND CURRENT TECHNICAL RESEARCH** at **MIT**
 
 ## Let's Connect
 
 I'm always open to feedback, collaboration, and new opportunities. Feel free to reach out!
 
-- [LinkedIn](([https://www.linkedin.com/in/chethan-k-murthy-37b023319/))
+- [LinkedIn](https://www.linkedin.com/in/chethan-k-murthy-37b023319/)
 - [Twitter](https://twitter.com/your-twitter-handle)
 - [Email](mailto:chethankeshavmurthy@gmail.com)
 
@@ -60,12 +63,13 @@ If you find my projects interesting or helpful, please consider starring them an
 
 ---
 
+
 Thanks for stopping by! 
 ANUGRAHITOSMI 
 
 CHETHAN K MURTHY 
 
-
+---
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
@@ -91,3 +95,4 @@ CHETHAN K MURTHY
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
+---
