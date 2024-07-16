@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm CHETHAN K MURTHY 
+<img width="236" alt="image" src="https://github.com/user-attachments/assets/9414ecec-7d7b-4f7f-b515-dc6ebfbe7d8e"># Hi there! 👋 I'm CHETHAN K MURTHY 
 
 Welcome to my GitHub profile! I'm passionate about technology and love creating innovative solutions. Here's a bit about me and what you can find here.
 
@@ -35,9 +35,9 @@ Here are the technologies I work with:
 - **Poker-bot**:Input your river cards and cards on the table to know your probablity of winning the hand.
 
 ### Finance & Trading
--**AI-Driven Financial Forecasting and Valuation Using Generative Adversarial Network (GAN) and DCF Modeling for Major Indian Bank**:Utilizes Generative Adversarial Networks (GANs) to simulate future financial scenarios based on 
-  historical data of HDFC, SBI, ICICI Bank, and other major Indian banks and make investment choices.
 - **Dynamic Trading Bot**: Developed for real-time portfolio optimization in the NIFTY50 options market.
+- **AI-Driven Financial Forecasting and Valuation Using Generative Adversarial Network (GAN) and DCF Modeling for Major Indian Bank**:Utilizes Generative Adversarial Networks (GANs) to simulate future financial scenarios based on 
+  historical data of HDFC, SBI, ICICI Bank, and other major Indian banks and helps make best investment choice.
 - **Algorithmic Trading Strategies**: Focused on achieving high ROI and optimizing derivatives strategies using Half mean Methods.
 - **Gold-ETF Optimum Portfolio**: Developed a machine learning model that fits ARIMA model based on historical Fund performances of Gold-ETF's in India to create optimum allocation of them for maximised returns.
 
