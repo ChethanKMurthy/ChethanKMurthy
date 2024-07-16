@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about technology and love creating 
 - 📈 Specialized in algorithmic trading strategies for the NIFTY50 options market.
 - 🚀 Achieved an 81% ROI in Q1 2024 with my trading bot.
 - 📚 Author of a book chapter on AIOT for smart agriculture : "From Fields to Data".
-- 📚 Published a Research Paper IN international conferece on Multidisciplinary and Current Technical Research At MIT.
+- 📚 Published a Research Paper in International conferece on Multidisciplinary and Current Technical Research At MIT.
 - 💻 AI enthusiast with projects in machine learning For Finance and Healthcare.
 - 🌌 JavaScript developer with a love for space-themed games.
 
