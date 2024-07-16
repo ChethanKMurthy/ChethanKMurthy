@@ -1,3 +1,71 @@
+# Hi there! 👋 I'm CHETHAN K MURTHY 
+
+Welcome to my GitHub profile! I'm passionate about technology and love creating innovative solutions. Here's a bit about me and what you can find here.
+
+## About Me
+
+- 🎓 Prefinal Year Student studying Artificial Intelligence.
+- 🎥 Aspiring filmmaker with a knack for storytelling.
+- 📊 Quantitative Research Analyst Inten at Carlsen Capital.
+- 📈 Specialized in algorithmic trading strategies for the NIFTY50 options market.
+- 🚀 Achieved an 81% ROI in Q1 2024 with my trading bot.
+- 📚 Author of a book chapter on AIOT for smart agriculture : "From Fields to Data".
+- 📚 Published a Research Paper IN international conferece on Multidisciplinary and Current Technical Research At MIT.
+- 💻 AI enthusiast with projects in machine learning For Finance and Healthcare.
+- 🌌 JavaScript developer with a love for space-themed games.
+
+## Tech Stacks
+
+Here are the technologies I work with:
+
+- **Programming Languages**: Python, JavaScript, R, SQL
+- **Machine Learning & AI**: TensorFlow, Keras, scikit-learn, PyTorch
+- **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn
+- **Web Development**: HTML, CSS, Node.js, React
+- **Game Development**: JavaScript, HTML5 Canvas
+- **Trading & Finance**: QuantLib, MetaTrader, Bloomberg Terminal
+- **Tools & Platforms**: Git, Docker, Jupyter Notebooks, VS Code
+
+## My Projects
+
+### Machine Learning & AI
+
+- **Lung Cancer Identification Models**: Research and compare various models for early detection of lung cancer to improve patient outcomes.
+- **AI-powered Menstrual Cycle Prediction Tool**: Empowering women to take charge of their reproductive health through accurate predictions.
+
+### Finance & Trading
+
+- **Dynamic Trading Bot**: Developed for real-time portfolio optimization in the NIFTY50 options market.
+- **Algorithmic Trading Strategies**: Focused on achieving high ROI and optimizing derivatives strategies.
+
+### JavaScript Games
+
+- **Space Survival Game**: A thrilling game where players dodge planets and survive in space. Unlimited distance but limited lives—how long can you last?
+
+### Publications
+
+- **How AIOT is Reshaping Agriculture Water Use**: Co-author of a chapter in the upcoming book 'AIOT for Smart Agriculture'.
+
+## Let's Connect
+
+I'm always open to feedback, collaboration, and new opportunities. Feel free to reach out!
+
+- [LinkedIn](([https://www.linkedin.com/in/chethan-k-murthy-37b023319/))
+- [Twitter](https://twitter.com/your-twitter-handle)
+- [Email](mailto:chethankeshavmurthy@gmail.com)
+
+## Support My Work
+
+If you find my projects interesting or helpful, please consider starring them and contributing. Your support means a lot!
+
+---
+
+Thanks for stopping by! 
+ANUGRAHITOSMI 
+
+CHETHAN K MURTHY 
+
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
