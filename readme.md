@@ -31,11 +31,12 @@ Here are the technologies I work with:
 ### Machine Learning & AI
 
 - **Lung Cancer Identification Models**: Research and compare various models for early detection of lung cancer to improve patient outcomes.
-- **AI-powered Menstrual Cycle Prediction Tool**: Empowering women to take charge of their reproductive health through accurate predictions.
+- **AI-powered Menstrual Cycle Prediction Tool**: Empowering women to take charge of their reproductive health through accurate predictions and Mental  
 - **Poker-bot**:Input your river cards and cards on the table to know your probablity of winning the hand.
 
 ### Finance & Trading
-
+-**AI-Driven Financial Forecasting and Valuation Using Generative Adversarial Network (GAN) and DCF Modeling for Major Indian Bank**:Utilizes Generative Adversarial Networks (GANs) to simulate future financial scenarios based on 
+  historical data of HDFC, SBI, ICICI Bank, and other major Indian banks and make investment choices.
 - **Dynamic Trading Bot**: Developed for real-time portfolio optimization in the NIFTY50 options market.
 - **Algorithmic Trading Strategies**: Focused on achieving high ROI and optimizing derivatives strategies using Half mean Methods.
 - **Gold-ETF Optimum Portfolio**: Developed a machine learning model that fits ARIMA model based on historical Fund performances of Gold-ETF's in India to create optimum allocation of them for maximised returns.
