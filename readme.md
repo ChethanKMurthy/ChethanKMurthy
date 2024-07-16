@@ -1,4 +1,4 @@
-<img width="236" alt="image" src="https://github.com/user-attachments/assets/9414ecec-7d7b-4f7f-b515-dc6ebfbe7d8e"># Hi there! 👋 I'm CHETHAN K MURTHY 
+# Hi there! 👋 I'm CHETHAN K MURTHY 
 
 Welcome to my GitHub profile! I'm passionate about technology and love creating innovative solutions. Here's a bit about me and what you can find here.
 
