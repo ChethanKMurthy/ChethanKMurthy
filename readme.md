@@ -37,7 +37,8 @@ Here are the technologies I work with:
 ### Finance & Trading
 
 - **Dynamic Trading Bot**: Developed for real-time portfolio optimization in the NIFTY50 options market.
-- **Algorithmic Trading Strategies**: Focused on achieving high ROI and optimizing derivatives strategies.
+- **Algorithmic Trading Strategies**: Focused on achieving high ROI and optimizing derivatives strategies using Half mean Methods.
+- **Gold-ETF Optimum Portfolio**: Developed a machine learning model that fits ARIMA model based on historical Fund performances of Gold-ETF's in India to create optimum allocation of them for maximised returns.
 
 ### JavaScript Games
 
@@ -95,4 +96,5 @@ CHETHAN K MURTHY
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
+
 ---
