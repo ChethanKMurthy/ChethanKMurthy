@@ -34,6 +34,7 @@ Here are the technologies I work with:
 - **Mindsight AI**: Aims to provide early intervention, 24/7 AI support, data-driven insights, targeted interventions, and promote mental well-being using  Natural Language Processing (NLP).
 - **AI-powered Menstrual Cycle Prediction Tool**: Empowering women to take charge of their reproductive health through accurate predictions and Mental  
 - **Poker-bot**:Input your river cards and cards on the table to know your probablity of winning the hand.
+- **Blog_Mate**:Gemini pro based AI blog generator to help generating blogs 
 
 ### Finance & Trading
 - **Dynamic Trading Bot**: Developed for real-time portfolio optimization in the NIFTY50 options market.
