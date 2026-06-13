@@ -126,10 +126,10 @@ class ChethanKMurthy:
 <tr>
 <td width="50%" valign="top">
 
-#### 🤖 [ScoracticAI — Agentic Socratic Tutor](https://github.com/ChethanKMurthy)
+#### 🤖 [Meridian-The operating system for creator-driven growth.](https://github.com/ChethanKMurthy/Meridian)
 Gemini-powered agentic LLM with dynamic prompt construction, conversational state tracking, and modular tool-use architecture. Built for adaptive multi-turn Socratic reasoning across diverse learner profiles.
 
-`Python` `Gemini API` `Agentic AI` `RAG`
+
 
 </td>
 <td width="50%" valign="top">
